@@ -9,6 +9,7 @@ const steps = [
     lightBg: "bg-blue-50/80 border-blue-100",
     darkBg: "dark:from-indigo-900/40 dark:to-indigo-800/40",
   },
+  
   {
     number: 2,
     title: "Add Tasks",
